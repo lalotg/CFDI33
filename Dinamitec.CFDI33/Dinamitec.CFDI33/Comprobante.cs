@@ -60,5 +60,6 @@ namespace Dinamitec.CFDI33
 
         [XmlElement]
         public Impuestos Impuestos { get; set; }
+
     }
 }

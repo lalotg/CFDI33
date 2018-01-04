@@ -52,5 +52,11 @@
     <Compile Include="Retencion.cs" />
     <Compile Include="Traslado.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Package.nuspec" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\icon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
