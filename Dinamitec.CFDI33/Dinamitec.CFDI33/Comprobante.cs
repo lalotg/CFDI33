@@ -52,6 +52,12 @@ namespace Dinamitec.CFDI33
         [XmlElement]
         public Receptor Receptor { get; set; }
 
+        [XmlArray("Conceptos"), XmlArrayItem("Concepto")]
+        public Concepto[] Conceptos { get; set; }
+
+        [XmlElement]
+        public Complemento Complemento { get; set; }
+
         [XmlElement]
         public Impuestos Impuestos { get; set; }
     }
