@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
 [assembly: AssemblyTitle("Dinamitec.CFDI33")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Factura electrónica (CFDI) v 3.3")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Dinamitec.")]
 [assembly: AssemblyProduct("Dinamitec.CFDI33.Model")]
-[assembly: AssemblyCopyright("Copyright © Dinamitec. 2017")]
+[assembly: AssemblyCopyright("Copyright © Dinamitec. 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Puede especificar todos los valores o usar los números de compilación y de revisión predeterminados
 // mediante el carácter "*", como se muestra a continuación:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.1")]
+[assembly: AssemblyFileVersion("1.0.0.1")]

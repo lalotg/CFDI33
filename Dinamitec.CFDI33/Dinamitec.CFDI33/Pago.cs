@@ -31,9 +31,17 @@ namespace Dinamitec.CFDI33
         public List<DoctoRelacionado> DoctoRelacionado { get; set; }
     }
 
+    
     public class Pagos
     {
-        [XmlArray("Pagos"), XmlArrayItem("Pago")]
-        public Pago[] Pago;
+        [XmlAttribute]
+        public string Version { get; set; }
+        [XmlElement("Pago")]
+        public List<Pago> Pago { get; set; }
+
+        public Pagos()
+        {
+            Version = "1.0";
+        }
     }
 }

@@ -7,12 +7,12 @@
     <owners>Dinamitec</owners>
     <licenseUrl>https://github.com/lalotg/CFDI33</licenseUrl>
     <projectUrl>https://github.com/lalotg/CFDI33</projectUrl>
-    <iconUrl></iconUrl>
+    <iconUrl>https://github.com/lalotg/CFDI33/blob/master/Dinamitec.CFDI33/Dinamitec.CFDI33/assets/icon.png?raw=true</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>CFDI33 listo para serializar</description>
     <releaseNotes>El paquete contiene las clases necesarias para generar comprobante CFDI en su version 3.3</releaseNotes>
     <copyright>Copyright 2018</copyright>
-    <tags>Tag1 Tag2</tags>
+    <tags>Paquete inicial</tags>
     <dependencies>
     </dependencies>
   </metadata>

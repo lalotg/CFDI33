@@ -9,7 +9,7 @@ namespace Dinamitec.CFDI33
 {
     public class Complemento
     {
-        [XmlArray("Pagos"), XmlArrayItem("Pago")]
-        public Pago[] Pago { get; set; }
+        [XmlElement(Namespace = "http://www.sat.gob.mx/Pagos")]
+        public Pagos Pagos { get; set; }
     }
 }
