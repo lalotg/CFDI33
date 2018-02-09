@@ -2,17 +2,17 @@
 <package >
   <metadata>
     <id>DinamiCFDI3.3</id>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <authors>Dinamitec</authors>
     <owners>Dinamitec</owners>
-    <licenseUrl>https://github.com/lalotg/CFDI33</licenseUrl>
+    <licenseUrl>http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</licenseUrl>
     <projectUrl>https://github.com/lalotg/CFDI33</projectUrl>
     <iconUrl>https://github.com/lalotg/CFDI33/blob/master/Dinamitec.CFDI33/Dinamitec.CFDI33/assets/icon.png?raw=true</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>CFDI33 listo para serializar</description>
-    <releaseNotes>El paquete contiene las clases necesarias para generar comprobante CFDI en su version 3.3</releaseNotes>
-    <copyright>Copyright 2018</copyright>
-    <tags>Paquete inicial</tags>
+    <releaseNotes>El paquete contiene las clases necesarias para serializar el comprobante CFDI en su version 3.3 así como el complemento de pago.</releaseNotes>
+    <copyright>Dinamitec © 2018</copyright>
+    <tags>Comprobante Complemento Pagos</tags>
     <dependencies>
     </dependencies>
   </metadata>

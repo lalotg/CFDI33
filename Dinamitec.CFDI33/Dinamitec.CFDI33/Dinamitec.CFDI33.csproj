@@ -45,6 +45,7 @@
     <Compile Include="Concepto.cs" />
     <Compile Include="DoctoRelacionado.cs" />
     <Compile Include="Emisor.cs" />
+    <Compile Include="Generador.cs" />
     <Compile Include="Impuestos.cs" />
     <Compile Include="Pago.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
